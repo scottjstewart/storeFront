@@ -1,0 +1,39 @@
+.wrapper{
+    background: seagreen;
+    width: 100%;
+    height: 100%;
+}
+
+.h1{
+    text-align: center;
+}
+
+.h3{
+    text-align: center;
+}
+
+.button1{
+    color: black;
+    background: lightseagreen;
+}
+
+.button2{
+    color: lightseagreen;
+    background: black;
+}
+
+.button3{
+    color: black;
+    background: lightseagreen;
+}
+
+.button4{
+    color: lightseagreen;
+    background: black;
+}
+
+.button5{
+    color: black;
+    background: lightseagreen;
+    padding-right:  5px;
+}
